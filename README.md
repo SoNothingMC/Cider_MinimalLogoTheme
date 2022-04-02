@@ -6,7 +6,7 @@ Fix coming next week.
 ---
 ---
 
-## Old Logo Theme
+## Minimal Logo Theme
 
 A theme for [Cider], featuring the logo without the "Cider" text.
 
