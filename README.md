@@ -1,10 +1,9 @@
-# ❗ WARNING
+# ❗ LEGACY SUPPORT ONLY
 
-This theme will NOT work on Cider version 1.4.0 or above.  
-Fix coming next week.
+**This theme only works on Cider 1.3 or versions below.**
 
----
----
+Starting with Cider 1.4, the default logo has been changed to what this theme was trying to achieve.  
+Applying this theme on newer versions will cause graphical issues on the Cider logo button.
 
 ## Minimal Logo Theme
 
@@ -14,25 +13,25 @@ A theme for [Cider], featuring the logo without the "Cider" text.
 
 The theme only changes the top-left Cider button.
 
-### Copyright
+## Copyright
 
 There are files with different copyrights in this repository.  
 LICENSE files are included inside directories that does not fall under the root license.
 
-#### `/` (root directory)
+### `/` (root directory)
 
 * All files, except subfolders  
 *Description:* Code files for the theme.  
 © 2022 SoNothing, licensed under the [WTFPL].
 
-#### `/docs/` directory
+### `/docs/` directory
 
 * All files  
 *Description:* Screenshot of the Cider app.  
 Cider UI © 2022 Cider Collective, licensed under the [AGPLv3].  
 Apple Music is a trademark of Apple Inc.
 
-#### `/assets/` directory
+### `/assets/` directory
 
 * All files and subfolders  
 *Description:* Source files for the modified logos.  
