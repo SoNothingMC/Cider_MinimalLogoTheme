@@ -1,11 +1,17 @@
-# ❗ LEGACY SUPPORT ONLY
+# Minimal Logo Theme
+
+## ❗ LEGACY SUPPORT ONLY
 
 **This theme only works on Cider 1.3 or versions below.**
 
 Starting with Cider 1.4, the default logo has been changed to what this theme was trying to achieve.  
 Applying this theme on newer versions will cause graphical issues on the Cider logo button.
 
-## Minimal Logo Theme
+## ⚠ End-of-Life Notice
+
+This theme is no longer being maintained.
+
+---
 
 A theme for [Cider], featuring the logo without the "Cider" text.
 
